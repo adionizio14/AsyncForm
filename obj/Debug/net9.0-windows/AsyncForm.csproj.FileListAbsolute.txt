@@ -1,0 +1,14 @@
+C:\Users\aadio\OneDrive\Desktop\NET\AsyncForm\bin\Debug\net9.0-windows\AsyncForm.exe
+C:\Users\aadio\OneDrive\Desktop\NET\AsyncForm\bin\Debug\net9.0-windows\AsyncForm.deps.json
+C:\Users\aadio\OneDrive\Desktop\NET\AsyncForm\bin\Debug\net9.0-windows\AsyncForm.runtimeconfig.json
+C:\Users\aadio\OneDrive\Desktop\NET\AsyncForm\bin\Debug\net9.0-windows\AsyncForm.dll
+C:\Users\aadio\OneDrive\Desktop\NET\AsyncForm\bin\Debug\net9.0-windows\AsyncForm.pdb
+C:\Users\aadio\OneDrive\Desktop\NET\AsyncForm\obj\Debug\net9.0-windows\AsyncForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aadio\OneDrive\Desktop\NET\AsyncForm\obj\Debug\net9.0-windows\AsyncForm.AssemblyInfoInputs.cache
+C:\Users\aadio\OneDrive\Desktop\NET\AsyncForm\obj\Debug\net9.0-windows\AsyncForm.AssemblyInfo.cs
+C:\Users\aadio\OneDrive\Desktop\NET\AsyncForm\obj\Debug\net9.0-windows\AsyncForm.csproj.CoreCompileInputs.cache
+C:\Users\aadio\OneDrive\Desktop\NET\AsyncForm\obj\Debug\net9.0-windows\AsyncForm.dll
+C:\Users\aadio\OneDrive\Desktop\NET\AsyncForm\obj\Debug\net9.0-windows\refint\AsyncForm.dll
+C:\Users\aadio\OneDrive\Desktop\NET\AsyncForm\obj\Debug\net9.0-windows\AsyncForm.pdb
+C:\Users\aadio\OneDrive\Desktop\NET\AsyncForm\obj\Debug\net9.0-windows\AsyncForm.genruntimeconfig.cache
+C:\Users\aadio\OneDrive\Desktop\NET\AsyncForm\obj\Debug\net9.0-windows\ref\AsyncForm.dll
